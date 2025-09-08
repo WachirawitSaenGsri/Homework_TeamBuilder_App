@@ -1,3 +1,4 @@
+//pokemon_model.dart
 class Pokemon {
   final String name;
   final String url;
